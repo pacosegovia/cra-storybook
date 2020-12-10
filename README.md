@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CRA & Storybook Boilerplate
 
 ## Development
 
@@ -55,3 +55,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 - [ ] Deployment of the Storybook
 - [ ] Create a complex component
+- [ ] Create a component with React Hooks
